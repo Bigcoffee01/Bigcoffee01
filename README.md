@@ -1,4 +1,4 @@
-# Hi, I'm BigCoffee ☕️
+# Hi, I'm BigCoffee 
 
 ### Beginner Developer | Learning to Build & Grow
 
